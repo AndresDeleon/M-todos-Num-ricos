@@ -1,0 +1,10 @@
+C:\Users\aldac\Documents\Universidad\Ciclo II - 2020\Métodos Numéricos\MetodoBiseccion\MetodoBiseccion\bin\Debug\MetodoBiseccion.exe.config
+C:\Users\aldac\Documents\Universidad\Ciclo II - 2020\Métodos Numéricos\MetodoBiseccion\MetodoBiseccion\bin\Debug\MetodoBiseccion.exe
+C:\Users\aldac\Documents\Universidad\Ciclo II - 2020\Métodos Numéricos\MetodoBiseccion\MetodoBiseccion\bin\Debug\MetodoBiseccion.pdb
+C:\Users\aldac\Documents\Universidad\Ciclo II - 2020\Métodos Numéricos\MetodoBiseccion\MetodoBiseccion\obj\Debug\MetodoBiseccion.csprojAssemblyReference.cache
+C:\Users\aldac\Documents\Universidad\Ciclo II - 2020\Métodos Numéricos\MetodoBiseccion\MetodoBiseccion\obj\Debug\MetodoBiseccion.Form1.resources
+C:\Users\aldac\Documents\Universidad\Ciclo II - 2020\Métodos Numéricos\MetodoBiseccion\MetodoBiseccion\obj\Debug\MetodoBiseccion.Properties.Resources.resources
+C:\Users\aldac\Documents\Universidad\Ciclo II - 2020\Métodos Numéricos\MetodoBiseccion\MetodoBiseccion\obj\Debug\MetodoBiseccion.csproj.GenerateResource.cache
+C:\Users\aldac\Documents\Universidad\Ciclo II - 2020\Métodos Numéricos\MetodoBiseccion\MetodoBiseccion\obj\Debug\MetodoBiseccion.csproj.CoreCompileInputs.cache
+C:\Users\aldac\Documents\Universidad\Ciclo II - 2020\Métodos Numéricos\MetodoBiseccion\MetodoBiseccion\obj\Debug\MetodoBiseccion.exe
+C:\Users\aldac\Documents\Universidad\Ciclo II - 2020\Métodos Numéricos\MetodoBiseccion\MetodoBiseccion\obj\Debug\MetodoBiseccion.pdb

@@ -1,0 +1,10 @@
+C:\Users\aldac\source\repos\MetodoPuntoFijo\MetodoRegulaFalsi\obj\Debug\MetodoPuntoFijo.csprojAssemblyReference.cache
+C:\Users\aldac\source\repos\MetodoPuntoFijo\MetodoRegulaFalsi\obj\Debug\MetodoRegulaFalsi.Form1.resources
+C:\Users\aldac\source\repos\MetodoPuntoFijo\MetodoRegulaFalsi\obj\Debug\MetodoRegulaFalsi.Properties.Resources.resources
+C:\Users\aldac\source\repos\MetodoPuntoFijo\MetodoRegulaFalsi\obj\Debug\MetodoPuntoFijo.csproj.GenerateResource.cache
+C:\Users\aldac\source\repos\MetodoPuntoFijo\MetodoRegulaFalsi\obj\Debug\MetodoPuntoFijo.csproj.CoreCompileInputs.cache
+C:\Users\aldac\source\repos\MetodoPuntoFijo\MetodoRegulaFalsi\obj\Debug\MetodoRegulaFalsi.exe
+C:\Users\aldac\source\repos\MetodoPuntoFijo\MetodoRegulaFalsi\obj\Debug\MetodoRegulaFalsi.pdb
+C:\Users\aldac\source\repos\MetodoPuntoFijo\MetodoRegulaFalsi\bin\Debug\MetodoRegulaFalsi.exe.config
+C:\Users\aldac\source\repos\MetodoPuntoFijo\MetodoRegulaFalsi\bin\Debug\MetodoRegulaFalsi.exe
+C:\Users\aldac\source\repos\MetodoPuntoFijo\MetodoRegulaFalsi\bin\Debug\MetodoRegulaFalsi.pdb

@@ -1,0 +1,10 @@
+C:\Users\aldac\source\repos\MetodoSecante\MetodoSecante\bin\Debug\MetodoSecante.exe.config
+C:\Users\aldac\source\repos\MetodoSecante\MetodoSecante\bin\Debug\MetodoSecante.exe
+C:\Users\aldac\source\repos\MetodoSecante\MetodoSecante\bin\Debug\MetodoSecante.pdb
+C:\Users\aldac\source\repos\MetodoSecante\MetodoSecante\obj\Debug\MetodoSecante.csprojAssemblyReference.cache
+C:\Users\aldac\source\repos\MetodoSecante\MetodoSecante\obj\Debug\MetodoSecante.Form1.resources
+C:\Users\aldac\source\repos\MetodoSecante\MetodoSecante\obj\Debug\MetodoSecante.Properties.Resources.resources
+C:\Users\aldac\source\repos\MetodoSecante\MetodoSecante\obj\Debug\MetodoSecante.csproj.GenerateResource.cache
+C:\Users\aldac\source\repos\MetodoSecante\MetodoSecante\obj\Debug\MetodoSecante.csproj.CoreCompileInputs.cache
+C:\Users\aldac\source\repos\MetodoSecante\MetodoSecante\obj\Debug\MetodoSecante.exe
+C:\Users\aldac\source\repos\MetodoSecante\MetodoSecante\obj\Debug\MetodoSecante.pdb

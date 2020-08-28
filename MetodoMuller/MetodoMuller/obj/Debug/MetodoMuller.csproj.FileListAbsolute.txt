@@ -1,0 +1,10 @@
+C:\Users\aldac\source\repos\MetodoMuller\MetodoMuller\bin\Debug\MetodoMuller.exe.config
+C:\Users\aldac\source\repos\MetodoMuller\MetodoMuller\bin\Debug\MetodoMuller.exe
+C:\Users\aldac\source\repos\MetodoMuller\MetodoMuller\bin\Debug\MetodoMuller.pdb
+C:\Users\aldac\source\repos\MetodoMuller\MetodoMuller\obj\Debug\MetodoMuller.csprojAssemblyReference.cache
+C:\Users\aldac\source\repos\MetodoMuller\MetodoMuller\obj\Debug\MetodoMuller.Form1.resources
+C:\Users\aldac\source\repos\MetodoMuller\MetodoMuller\obj\Debug\MetodoMuller.Properties.Resources.resources
+C:\Users\aldac\source\repos\MetodoMuller\MetodoMuller\obj\Debug\MetodoMuller.csproj.GenerateResource.cache
+C:\Users\aldac\source\repos\MetodoMuller\MetodoMuller\obj\Debug\MetodoMuller.csproj.CoreCompileInputs.cache
+C:\Users\aldac\source\repos\MetodoMuller\MetodoMuller\obj\Debug\MetodoMuller.exe
+C:\Users\aldac\source\repos\MetodoMuller\MetodoMuller\obj\Debug\MetodoMuller.pdb

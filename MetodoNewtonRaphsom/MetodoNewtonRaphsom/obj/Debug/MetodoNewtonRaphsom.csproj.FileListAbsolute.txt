@@ -1,0 +1,10 @@
+C:\Users\aldac\source\repos\MetodoNewtonRaphsom\MetodoNewtonRaphsom\bin\Debug\MetodoNewtonRaphsom.exe.config
+C:\Users\aldac\source\repos\MetodoNewtonRaphsom\MetodoNewtonRaphsom\bin\Debug\MetodoNewtonRaphsom.exe
+C:\Users\aldac\source\repos\MetodoNewtonRaphsom\MetodoNewtonRaphsom\bin\Debug\MetodoNewtonRaphsom.pdb
+C:\Users\aldac\source\repos\MetodoNewtonRaphsom\MetodoNewtonRaphsom\obj\Debug\MetodoNewtonRaphsom.csprojAssemblyReference.cache
+C:\Users\aldac\source\repos\MetodoNewtonRaphsom\MetodoNewtonRaphsom\obj\Debug\MetodoRegulaFalsi.Form1.resources
+C:\Users\aldac\source\repos\MetodoNewtonRaphsom\MetodoNewtonRaphsom\obj\Debug\MetodoNewtonRaphsom.Properties.Resources.resources
+C:\Users\aldac\source\repos\MetodoNewtonRaphsom\MetodoNewtonRaphsom\obj\Debug\MetodoNewtonRaphsom.csproj.GenerateResource.cache
+C:\Users\aldac\source\repos\MetodoNewtonRaphsom\MetodoNewtonRaphsom\obj\Debug\MetodoNewtonRaphsom.csproj.CoreCompileInputs.cache
+C:\Users\aldac\source\repos\MetodoNewtonRaphsom\MetodoNewtonRaphsom\obj\Debug\MetodoNewtonRaphsom.exe
+C:\Users\aldac\source\repos\MetodoNewtonRaphsom\MetodoNewtonRaphsom\obj\Debug\MetodoNewtonRaphsom.pdb

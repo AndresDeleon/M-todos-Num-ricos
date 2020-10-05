@@ -1,0 +1,10 @@
+C:\Users\aldac\source\repos\MatrizAdjunta\MatrizAdjunta\bin\Debug\MatrizAdjunta.exe.config
+C:\Users\aldac\source\repos\MatrizAdjunta\MatrizAdjunta\bin\Debug\MatrizAdjunta.exe
+C:\Users\aldac\source\repos\MatrizAdjunta\MatrizAdjunta\bin\Debug\MatrizAdjunta.pdb
+C:\Users\aldac\source\repos\MatrizAdjunta\MatrizAdjunta\obj\Debug\MatrizAdjunta.csprojAssemblyReference.cache
+C:\Users\aldac\source\repos\MatrizAdjunta\MatrizAdjunta\obj\Debug\MatrizAdjunta.Form1.resources
+C:\Users\aldac\source\repos\MatrizAdjunta\MatrizAdjunta\obj\Debug\MatrizAdjunta.Properties.Resources.resources
+C:\Users\aldac\source\repos\MatrizAdjunta\MatrizAdjunta\obj\Debug\MatrizAdjunta.csproj.GenerateResource.cache
+C:\Users\aldac\source\repos\MatrizAdjunta\MatrizAdjunta\obj\Debug\MatrizAdjunta.csproj.CoreCompileInputs.cache
+C:\Users\aldac\source\repos\MatrizAdjunta\MatrizAdjunta\obj\Debug\MatrizAdjunta.exe
+C:\Users\aldac\source\repos\MatrizAdjunta\MatrizAdjunta\obj\Debug\MatrizAdjunta.pdb
